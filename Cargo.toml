@@ -1,0 +1,14 @@
+[package]
+name = "miden-standards"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+miden-objects = "0.11.0"
+anyhow = "1"
+
+[build-dependencies]
+miden-assembly = "0.17.0"
+miden-lib = "0.11.0"
+miden-objects = "0.11.0"
+anyhow = "1"
